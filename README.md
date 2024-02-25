@@ -13,4 +13,4 @@ The full report of the R implementation of this project can be found in the fina
 As for the Python implementation, you can view it in the Jupyter Notebook directly.
 
 ## Results
-The model achieved an accuracy of 98% on the dataset as well as 98% on every other metric (Precision, recall, f1 score) for both the positive and the negative class.
+The model achieved an accuracy of 98% on the test set as well as a 85% Macro Average F1 score.
